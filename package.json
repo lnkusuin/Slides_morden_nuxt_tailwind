@@ -1,0 +1,19 @@
+{
+  "name": "slides_morden_nuxt_tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkusu/Slides_morden_nuxt_tailwind.git"
+  },
+  "author": "wakai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkusu/Slides_morden_nuxt_tailwind/issues"
+  },
+  "homepage": "https://github.com/inkusu/Slides_morden_nuxt_tailwind#readme"
+}
