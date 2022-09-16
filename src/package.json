@@ -21,7 +21,7 @@
     "@nuxtjs/dotenv": "1.4.1"
   },
   "devDependencies": {
-    "nodemon": "2.0.19",
+    "nodemon": "2.0.20",
     "@nuxt/typescript-build": "2.1.0",
     "@nuxtjs/tailwindcss": "5.3.3",
     "@nuxtjs/eslint-config-typescript": "11.0.0",
